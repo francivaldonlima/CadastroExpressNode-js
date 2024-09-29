@@ -38,6 +38,7 @@ touch src/controllers/employeeController.ts \
 
 ```
 ## Instruções:
+0. Execute `npm install`
 1. Execute  `npm init -y`  para inicializar o projeto .
 2. Instale as dependências: `npm install express typeorm sqlite3 reflect-metadata class-validator`.
  3.  Adicione o suporte a TypeScript: `npm install typescript ts-node @types/node @types/express`.
